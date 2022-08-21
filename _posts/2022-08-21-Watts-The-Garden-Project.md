@@ -3,7 +3,7 @@ layout: post
 title: Watts The Garden Project
 author: Amler
 tags: [work]
-image: '/images/posts/watts.png'
+image: '/images/posts/watts.jpg'
 ---
 
 The words ‘Garden’ and ‘Painting’ put together remind us of the works of French artist Claude Monet and his impressionist paintings such as ‘Waterlily-pond’ or ‘Women in Garden. Yet, The Garden Project by Kerry James Marshall makes a resonating dent in how one looks at art. The idea of a Garden in a painting usually relates to hope, recreation, and aesthetics. Somehow the Garden Project veers away from the social construct of a garden and culminates in a narrative that represents the complexities of life in low-income housing projects. Ironically, all housing projects portrayed in his project bear the name of a Garden.
