@@ -1,32 +1,14 @@
 ---
 layout: post
-title: It would be totally painless - they'd just slip into unconsciousness
-author: ahmad
-tags: [work]
-image: '/images/posts/2.jpg'
+title: TAJ MAHAL
+sub title: Roland Barthes object mythologies
+author: Amler
+tags: [work, blog]
+image: '/images/posts/Taj_Mahal.jpg'
 ---
 
-Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
+To express love and commitment, one would buy a diamond ring or write letters in the sky, Yet no one can ever live up to Shahjahan, who built the Taj Mahal for Mumtaj.
 
-Vix dico eius nominati cu, ex zril commodo fuisset mea. Habeo adhuc audiam ius no. In quis virtute officiis has. Vix ad honestatis accommodare, quis virtute et sit, pertinax expetenda eam id. Duo an fuisset delectus dissentias, justo altera ea per.
+Who the Taj Mahal belongs to has been a recurring question, and a number of myths surround it even today. Does it be- long to the millions of tourists that visit from the corners of the world? Travelers who navigate the crowded and smelly streets of Agra and make it to the narrow arched entrance, which keeps getting darker with every step. And as they get closer, the arch turns into a tremendous frame with the onion dome sitting at the center, above the pointed arch, with a clear blue sky in the background. Does it belong to this traveller who made the long journey to reach this beautiful marvel, only to turn his back the second he enters the complex to raise his phone and take a selfie? Or does it belong to the tourist who likes to stand tall and take a perfect picture while holding the pinnacle of the onion dome within his fingers?
 
-##### Todo
-
-Duis id ante elit. Aliquam quis tellus id orci eleifend finibus. Donec consequat justo ligula, eget sodales purus hendrerit at.
-
-1. Ut at interdum nunc. Maecenas commodo turpis quis elementum gravida.
-2. Nunc ac sapien tellus. Quisque risus enim, tempus eget porttitor in, pellentesque vel urna.
-    Donec nibh massa, rutrum a sollicitudin eu,
-lacinia in lorem.
-
-##### Graphic design
-
-> Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies, and humors. — George Santayana
-
-Vim te case nihil oblique, has partem interpretaris ne, ad admodum accusamus nam. Usu utinam dissentias referrentur ne, vim accusam voluptua pertinacia no. Est no posse utinam inermis, brute errem mentitum et ius, te prompta albucius quo. In pro simul soleat regione.
-
-![alt](https://images.unsplash.com/photo-1433785567155-bf5530cab72c?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=1348aea714b9493fa61a09a8c01113e6)
-
-Ne reque offendit singulis mea, ad eos ferri doming nostrud. Duis suscipit usu ut, fuisset pericula ex est, et porro prompta his. Audire definiebas voluptatibus et duo, aperiam ocurreret ad nec. Vel ad nostrud principes. Ad liber congue iracundia sed, eirmod erroribus eam te, has veniam epicurei ea.
-
-Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.
+Does the Taj Mahal belong to the thousands of artisans who made it possible to build it? Or, as the popular myth says, the same craftsmen whose hands were amputated after comple- tion? Well, Shahjahan did no such horrible thing to his crafts- men, yet the legend lives on.
