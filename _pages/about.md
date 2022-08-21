@@ -1,11 +1,11 @@
 ---
 layout: page
 title: About
-image: '/images/pages/1.jpg'
+image: '/images/pages/vishal.png'
 ---
 
-You love minimalism, want to be productive focusing only on the important things and want to take jekyll to the next level, Sinai is designed for you. Sinai focus on showing your content in a clean and simple way, focus on images, typography, and white space.
+Innovation and knowledge have been the key driving force for the last 12 years as I gained a substantial part of my work experience working with relentless mentors who taught me there is always more to learn. The work experience I gained in the past years reflects the diversity of roles I could perform in various offices.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My experience involves working with reputed firms in India, such as RSP, a Singapore-based design Studio, Abaxial Architects, a small bespoke design studio & GEMS Education, one of the largest K-12 education providers across the world. Each required a different skill-set. At Abaxial and RSP, I gained creative design and production drawings skills, while GEMS education provided an opportunity to lead the client-side design management.
 
-Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
+I consider my strengths to be problem-solving, decision-making, and integrity. I am a fast learner and always open to new challenges. Creativity is one of my strongest suit. I am currently seeking an opportunity in the AEC industry.
