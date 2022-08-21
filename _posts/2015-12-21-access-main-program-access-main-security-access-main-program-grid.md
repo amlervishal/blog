@@ -1,32 +1,17 @@
 ---
 layout: post
-title: Access main program. Access main security. Access main program grid
-author: ahmad
-tags: [travel]
-image: '/images/posts/24.jpg'
+title: THE VIEW FROM MY WINDOW
+author: Amler
+tags: [work]
+image: '/images/posts/02.png'
 ---
 
-Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
+The view from my window on the thirty-seventh floor is speckled with the lights that shine from the tall buildings and the bustling streets below.
 
-Vix dico eius nominati cu, ex zril commodo fuisset mea. Habeo adhuc audiam ius no. In quis virtute officiis has. Vix ad honestatis accommodare, quis virtute et sit, pertinax expetenda eam id. Duo an fuisset delectus dissentias, justo altera ea per.
+At the center is a tall building that rises above the dark rooftops of the smaller buildings and seems to be reaching for the sky, splitting the view into two parts. This building has a tiny footprint, yet the way it rises from the streets below makes it look like an iconic pencil tower. The tessellated lights from the windows of this building keep flickering from one side to another. The windows and metal facade reflect the blue neon light emitted from the signboards on the street below. A few of the lower floors are under construction. These floors are lit up for the workers to keep moving in and out, even at this late hour. From time to time, silhouettes of people come close to the windows and disappear like horses on a carousel.
 
-##### Todo
+The roads line up neatly to form a grid below the tall building. The 9th Avenue on the left is lit up like a carnival adorned with streetlights and well-illuminated storefronts. Sometimes, a pack of cars drives up to the crosswalk and patiently wait for the lights to turn green like a mundane routine.
 
-Duis id ante elit. Aliquam quis tellus id orci eleifend finibus. Donec consequat justo ligula, eget sodales purus hendrerit at.
+Behind the tall building, more skyscrapers fill the skyline growing smaller and smaller into the vanishing point, where they disappear over the horizon. The night sky above this skyline is filled with white clouds that seem to have been awakened by the lights from the city below.
 
-1. Ut at interdum nunc. Maecenas commodo turpis quis elementum gravida.
-2. Nunc ac sapien tellus. Quisque risus enim, tempus eget porttitor in, pellentesque vel urna.
-    Donec nibh massa, rutrum a sollicitudin eu,
-lacinia in lorem.
-
-##### Graphic design
-
-> Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies, and humors. — George Santayana
-
-Vim te case nihil oblique, has partem interpretaris ne, ad admodum accusamus nam. Usu utinam dissentias referrentur ne, vim accusam voluptua pertinacia no. Est no posse utinam inermis, brute errem mentitum et ius, te prompta albucius quo. In pro simul soleat regione.
-
-![alt](https://images.unsplash.com/photo-1433785567155-bf5530cab72c?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=1348aea714b9493fa61a09a8c01113e6)
-
-Ne reque offendit singulis mea, ad eos ferri doming nostrud. Duis suscipit usu ut, fuisset pericula ex est, et porro prompta his. Audire definiebas voluptatibus et duo, aperiam ocurreret ad nec. Vel ad nostrud principes. Ad liber congue iracundia sed, eirmod erroribus eam te, has veniam epicurei ea.
-
-Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.
+_Article written as a part of Proseminar Fall 2021 Pratt MSUD_
