@@ -14,10 +14,10 @@ description:        Thoughts, Stories and Ideas
 baseurl:            '/blog' # The subpath of your site, e.g. /blog
 url:                'https://amlervishal.github.io' # The base hostname & protocol for your site
 twitter:            https://twitter.com/aspirethemes
-facebook:           https://www.facebook.com/vishal.amler/
-instagram:          https://www.instagram.com/vishalamler/
+facebook:           https://www.facebook.com/vishal.amler
+instagram:          https://www.instagram.com/vishalamler
 behance:            https://www.behance.net/vishalamler
-linkedin:           https://www.linkedin.com/in/vishal-amler-884394171/
+linkedin:           https://www.linkedin.com/in/vishal-amler-884394171
 issuu:              https://issuu.com/vishalamler/docs/vishal_amler_portfolio
 
 

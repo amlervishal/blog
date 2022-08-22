@@ -11,4 +11,5 @@ A solitary sign with pink footprints is painted on the sidewalk near the entranc
 The feet in the sign point toward the entrance door yet continue to stay in their place, unquestioningly following the instructions to wait there. Bound to the exact location where they were originally placed and wondering when they get their turn to enter the building.
 
 _Water Banjamin street fragments_
+---
 _Article written as a part of Proseminar Fall 2021 Pratt MSUD_
