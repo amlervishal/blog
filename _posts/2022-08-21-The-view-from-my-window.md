@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The view from my window
+title: View from my window
 author: Amler
 tags: [work]
 image: '/images/posts/02.png'

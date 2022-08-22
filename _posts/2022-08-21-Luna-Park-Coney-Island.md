@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Luna Park Coney Island
+title: Luna Park, Coney Island
 author: Amler
 tags: [work]
 image: '/images/posts/Coney-island.png'

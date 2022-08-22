@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Geoffrey Bawa the built and the landscape 
+title: Geoffrey Bawa - The built and the landscape 
 author: Amler
 tags: [work]
 image: '/images/posts/Geoffrey_bawa.png'
