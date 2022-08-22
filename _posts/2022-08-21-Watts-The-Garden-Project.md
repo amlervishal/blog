@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watts The Garden Project
+title: Watts - The Garden Project
 author: Amler
 tags: [work]
 image: '/images/posts/watts.jpg'
