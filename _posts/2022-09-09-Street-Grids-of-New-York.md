@@ -107,5 +107,5 @@ In Red Hook, the infrastructural and Constructed divisions of the street grid by
 
 
 
-_Article written as a part of Ecosystems Seminar Spring 2022 Pratt MSUD. Mentor: Prof. Cathrine Ingram Pratt Institute_
+_Article written as a part of Ecosystems Seminar Spring 2022 Pratt MSUD. Mentor: Prof. Cathrine Ingraham Pratt Institute_
 ---
