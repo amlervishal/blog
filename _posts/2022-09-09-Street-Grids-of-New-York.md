@@ -8,6 +8,7 @@ image: '/images/posts/newyork.jpg'
 
 
 STREET GRIDS OF NEW YORK 
+---
 Understanding the order and underlying ecosystems of New York City.
 
 **INTRODUCTION**
@@ -39,7 +40,7 @@ The Commissioner’s plan of 1811 received staunch criticism. In Thomas Janvier�
 Before the 1811 plan, the city’s development was unregulated. This was the first attempt in New York to lay order to the way this city was planned and gave rise to smaller ecosystems in the city. 
 
 **THE CAPITALIST INTERVENTION**
- 
+
 To understand if this grid gave rise to a capitalistic ecosystem, we could start by trying to understand if there was any kind of economic benefit that resulted from the implementation of the New York grid. 
  
 One of the primary reasons for the development of the grid was cited as ‘to provide for orderly development and sale of land. This was crucial since the Council could not achieve this goal due to local politics and objections from property owners. Private developers in Manhattan had already laid precedents for rectangular grids; King’s college had laid out a neighborhood in rectangular blocks in the early 1750s. De Lancey family had decided to break up their large estate and eventually laid out a rectangular grid of streets centered on De Lancey Square. 
